@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Pablo",
+      "email": "pablo@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 2,
+      "name": "Luiz Antonio",
+      "email": "luiz.antonio@email.com",
+      "password": "123456"
+    },
+    {
+      "id": 3,
+      "name": "Dino da Silva Sauro",
+      "email": "dino.sauro@email.com",
+      "password": "153624"
+    },
+    {
+      "id": "7487",
+      "nome": "Luiz Carlos",
+      "email": "carlos@mail.com",
+      "password": "coisacoisa"
+    },
+    {
+      "id": "8089",
+      "nome": "João Carlos da Silva",
+      "email": "joao.carlos@email.com",
+      "password": "coisacoisa"
+    },
+    {
+      "id": "3631",
+      "nome": "Jair da Silva",
+      "email": "jair.silva@email.com",
+      "password": "coisacoisa"
+    },
+    {
+      "id": "9336",
+      "nome": "Nome Sobrenome",
+      "email": "nome.email@email.com",
+      "password": "coisacoisa"
+    },
+    {
+      "id": "737e",
+      "nome": "Anderson Silva",
+      "email": "anderson.silva@email.com",
+      "password": "coisacoisa"
+    },
+    {
+      "id": "1735",
+      "nome": "Roberto Nunes",
+      "email": "roberto.nunes@mail.com",
+      "password": "coisacoisa"
+    },
+    {
+      "id": "2ec3",
+      "nome": "Marcos Paulo",
+      "email": "marcos.paulo@mail.com",
+      "password": "coisacoisa"
+    }
+  ]
+}

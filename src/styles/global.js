@@ -1,0 +1,15 @@
+import { createGlobalStyle } from 'styled-components';
+
+export const GlobalStyle = createGlobalStyle`
+    *{
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    body {
+        background-color: #1e192C;
+        color: #ffffff;
+
+    }
+
+`
